@@ -42,7 +42,6 @@ header{
     align-items: center;
     background-color: var(--bg-2);
     position: fixed;
-    z-index: 1;
 }
 
 .list ul{
